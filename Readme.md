@@ -1,6 +1,6 @@
 # 🌐 TechNest
 
-Welcome to **TechNest** - A modern and responsive website designed to explore the latest tech trends, insights, and innovations.
+Welcome to **TechNest** - A modern website designed to explore the latest tech trends, insights, and innovations.
 
 ## 🚀 Live Demo  
 Check out the live website here: [TechNest](https://dhaliwaljashan.github.io/TechNest/)  
